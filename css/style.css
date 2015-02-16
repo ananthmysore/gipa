@@ -477,7 +477,7 @@
 			-webkit-appearance: none;
 			position: relative;
 			display: inline-block;
-			background: #ed786a;
+			background: #614704;
 			color: #fff !important;
 			text-transform: uppercase;
 			border-radius: 4px;
@@ -688,7 +688,7 @@
 	{
 		position: relative;
 		border-bottom: solid 2px #614704;
-		box-shadow: inset 0px -8px 0px 0px #614704, inset 0px -10px 0px 0px #e5e5e5;
+		box-shadow: inset 0px -8px 0px 0px #FFFFFF, inset 0px -10px 0px 0px #614704;
 	}
 
 		#header h1
@@ -799,8 +799,8 @@
 	
 	#banner
 	{
+		font-size:0.8em;
 		position: relative;
-		text-transform: uppercase;
 	}
 	
 		#banner p
